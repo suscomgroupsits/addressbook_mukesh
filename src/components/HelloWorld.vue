@@ -96,7 +96,7 @@ input[type=text] {
   padding-bottom: 12px;
   text-align: center;
   background-color: rgb(0, 8, 1);
-  color: white;
+  color: silver;
 }
 
 #tbl th:hover {
